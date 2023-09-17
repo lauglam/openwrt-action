@@ -4,7 +4,7 @@ env:
   # 源码仓库地址
   REPO_URL: https://github.com/openwrt/openwrt
   # 源码分支
-  REPO_BRANCH: main
+  REPO_BRANCH: openwrt-22.03
 
 on:
   workflow_dispatch:
